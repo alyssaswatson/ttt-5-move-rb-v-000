@@ -9,4 +9,5 @@ end
 # code your input_to_index and move method here!
 def input_to_index(user_input)
  number = gets.string
+ puts number.to_i
 end
